@@ -10,14 +10,14 @@ st.set_page_config(
 
 # Languages Dictionary
 languages = {
-    "English": "en",
-    "Arabic": "ar",
-    "French": "fr",
-    "German": "de",
-    "Spanish": "es",
-    "Italian": "it",
-    "Turkish": "tr",
-    "Russian": "ru"
+    "🇬🇧 English": "en",
+    "🇸🇦 Arabic": "ar",
+    "🇫🇷 French": "fr",
+    "🇩🇪 German": "de",
+    "🇪🇸 Spanish": "es",
+    "🇮🇹 Italian": "it",
+    "🇹🇷 Turkish": "tr",
+    "🇷🇺 Russian": "ru"
 }
 
 # Title
