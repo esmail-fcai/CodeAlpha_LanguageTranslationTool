@@ -4,8 +4,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-green)
 
-# Language Translation Tool
-
 ## Preview
 
 ![Language Translation Tool](screenshots/test.png)
@@ -43,9 +41,12 @@ streamlit run app.py
 ```text
 CodeAlpha_LanguageTranslationTool
 │
+├── screenshots/
+│   └── main.png
+├── .gitignore
 ├── app.py
 ├── requirements.txt
-├── README.md
+└── README.md
 ```
 
 ## Author
