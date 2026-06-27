@@ -7,7 +7,7 @@
 
 ## Preview
 
-![Language Translation Tool](screenshots/test.png)
+![Language Translation Tool](screenshots/main.png)
 
 A simple language translation application developed using Python and Streamlit for the CodeAlpha Artificial Intelligence Internship.
 
@@ -43,7 +43,7 @@ streamlit run app.py
 CodeAlpha_LanguageTranslationTool
 │
 ├── screenshots/
-│   └── test.png
+│   └── main.png
 ├── .gitignore
 ├── app.py
 ├── requirements.txt
