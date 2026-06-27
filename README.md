@@ -1,7 +1,8 @@
 # 🌍 Language Translation Tool
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Google Translate](https://img.shields.io/badge/Google-Translate-blue?logo=googletranslate)
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-green)
 
 ## Preview
@@ -42,7 +43,7 @@ streamlit run app.py
 CodeAlpha_LanguageTranslationTool
 │
 ├── screenshots/
-│   └── main.png
+│   └── test.png
 ├── .gitignore
 ├── app.py
 ├── requirements.txt
